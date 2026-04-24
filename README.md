@@ -1,14 +1,4 @@
-# Hi, I'm Isai 👋
-
-**Computer Engineer · AI/ML enthusiast · Currently in France 🇫🇷**
-
-I'm a double-degree Master's student at **UPPA (Anglet, France)** and **UASLP (Mexico)**, specializing in Industry 4.0, Artificial Intelligence, and Cybersecurity. I enjoy building things that bridge ML research and real-world applications.
-
----
-
-### 🔭 Currently
-- Master's in Computer Science — Industry 4.0 at UPPA (Anglet, France)
-- Exploring LLMs, RAG systems and smart manufacturing applications
+<img src="terminal.svg" width="100%"/>
 
 ### 📄 Published research
 - *Static Malware Detection through Ensemble Feature Selection and Supervised Classification* — Informatica Journal · [DOI: 10.31449/inf.v49i37.10728](https://doi.org/10.31449/inf.v49i37.10728)
