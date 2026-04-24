@@ -1,0 +1,56 @@
+<svg width="100%" viewBox="0 0 900 480" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>isaimorenolara GitHub Profile Terminal</title>
+  <desc>macOS-style terminal showing Isai's GitHub profile</desc>
+
+  <!-- Window background -->
+  <rect x="0" y="0" width="900" height="480" rx="14" fill="#1a1a1a"/>
+
+  <!-- Titlebar -->
+  <rect x="0" y="0" width="900" height="44" rx="14" fill="#2d2d2d"/>
+  <rect x="0" y="30" width="900" height="14" fill="#2d2d2d"/>
+
+  <!-- Traffic lights -->
+  <circle cx="26" cy="22" r="7" fill="#ff5f57"/>
+  <circle cx="50" cy="22" r="7" fill="#febc2e"/>
+  <circle cx="74" cy="22" r="7" fill="#28c840"/>
+
+  <!-- Titlebar text -->
+  <text x="450" y="27" text-anchor="middle" fill="#777" font-family="'SF Mono','Fira Code',monospace" font-size="13">isaimorenolara@github: ~/profile</text>
+
+  <!-- whoami -->
+  <text x="40" y="84" fill="#28c840" font-family="'SF Mono','Fira Code',monospace" font-size="14">$</text>
+  <text x="60" y="84" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="14">whoami</text>
+  <text x="40" y="110" fill="#ffffff" font-family="'SF Mono','Fira Code',monospace" font-size="14" font-weight="bold">Isai Vicente Moreno Lara</text>
+  <text x="292" y="110" fill="#555" font-family="'SF Mono','Fira Code',monospace" font-size="14">// Computer Engineer · AI/ML Enthusiast · 🇲🇽 → 🇫🇷</text>
+
+  <!-- ls expertise -->
+  <text x="40" y="148" fill="#28c840" font-family="'SF Mono','Fira Code',monospace" font-size="14">$</text>
+  <text x="60" y="148" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="14">ls ~/expertise</text>
+  <text x="40" y="174" fill="#5eb3f0" font-family="'SF Mono','Fira Code',monospace" font-size="13">llms  rag-systems  appsec  industry-4.0  malware-detection  open-source</text>
+
+  <!-- cat status -->
+  <text x="40" y="212" fill="#28c840" font-family="'SF Mono','Fira Code',monospace" font-size="14">$</text>
+  <text x="60" y="212" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="14">cat ~/.status</text>
+  <text x="40" y="238" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="13">Building bridges between ML research and real-world applications.</text>
+  <text x="40" y="258" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="13">Double-degree MSc · UPPA (France) &amp; UASLP (Mexico) · Industry 4.0 · AI · Cybersecurity</text>
+
+  <!-- cat contact -->
+  <text x="40" y="296" fill="#28c840" font-family="'SF Mono','Fira Code',monospace" font-size="14">$</text>
+  <text x="60" y="296" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="14">cat ~/contact</text>
+  <text x="40" y="322" fill="#febc2e" font-family="'SF Mono','Fira Code',monospace" font-size="13">▸</text>
+  <text x="60" y="322" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="13">isai.lara.dev@gmail.com</text>
+  <text x="40" y="342" fill="#febc2e" font-family="'SF Mono','Fira Code',monospace" font-size="13">▸</text>
+  <text x="60" y="342" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="13">linkedin.com/in/isai-vicente-moreno-lara</text>
+  <text x="40" y="362" fill="#febc2e" font-family="'SF Mono','Fira Code',monospace" font-size="13">▸</text>
+  <text x="60" y="362" fill="#c9c9c9" font-family="'SF Mono','Fira Code',monospace" font-size="13">San Luis Potosí, MX  →  Anglet, FR</text>
+
+  <!-- prompt + blinking cursor -->
+  <text x="40" y="400" fill="#28c840" font-family="'SF Mono','Fira Code',monospace" font-size="14">$</text>
+  <rect x="60" y="385" width="10" height="19" fill="#28c840">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Footer divider -->
+  <line x1="40" y1="428" x2="860" y2="428" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="40" y="454" fill="#3a3a3a" font-family="'SF Mono','Fira Code',monospace" font-size="11.5">isai.lara.dev@gmail.com  ·  linkedin.com/in/isai-vicente-moreno-lara  ·  San Luis Potosí → Anglet</text>
+</svg>
