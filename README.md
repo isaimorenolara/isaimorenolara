@@ -4,13 +4,14 @@
   <h1>Isai V. Moreno Lara</h1>
   <p>Computer Engineer building practical systems at the intersection of AI, cybersecurity and Industry 4.0.</p>
 
-  <p>
-    <a href="https://isai-dev.vercel.app/">Portfolio</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/isaimorenolara">GitHub</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/isai-vicente-moreno-lara/">LinkedIn</a>
-  </p>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+      <td><img src="https://api.iconify.design/lucide:globe-2.svg?color=%237C3AED" width="22" height="22" alt="Portfolio icon" /></td>
+      <td><a href="https://isai-dev.vercel.app/">Portfolio</a></td>
+      <td><img src="https://api.iconify.design/lucide:linkedin.svg?color=%237C3AED" width="22" height="22" alt="LinkedIn icon" /></td>
+      <td><a href="https://www.linkedin.com/in/isai-vicente-moreno-lara/">LinkedIn</a></td>
+    </tr>
+  </table>
   <br>
 </div>
 
@@ -59,31 +60,32 @@
 
 ## Tools I use
 
-<p>
-  <img src="https://api.iconify.design/lucide:code-2.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Code icon" />&nbsp;
-  <strong>Languages</strong><br>
-  Python · Java · JavaScript · TypeScript · PHP · C/C++
-</p>
-
-<p>
-  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Frameworks icon" />&nbsp;
-  <strong>Frameworks</strong><br>
-  React · Angular · Next.js · Bootstrap · Spring ecosystem (Generative AI, Microservices, Web applications) · Laravel · React Native · Flutter
-</p>
-
-<p>
-  <img src="https://api.iconify.design/lucide:server-cog.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Infrastructure icon" />&nbsp;
-  <strong>Tools &amp; infrastructure</strong><br>
-  Git · GitHub · CI/CD · Jenkins · Docker · Kubernetes · Proxmox · Cloud Services
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td width="34" valign="top"><img src="https://api.iconify.design/lucide:code-2.svg?color=%237C3AED" width="22" height="22" alt="Code icon" /></td>
+    <td valign="top"><strong>Languages</strong><br>Python · Java · JavaScript · TypeScript · PHP · C/C++</td>
+  </tr>
+  <tr><td colspan="2" height="18"></td></tr>
+  <tr>
+    <td width="34" valign="top"><img src="https://api.iconify.design/lucide:layers-3.svg?color=%237C3AED" width="22" height="22" alt="Frameworks icon" /></td>
+    <td valign="top"><strong>Frameworks</strong><br>React · Angular · Next.js · Bootstrap · Spring ecosystem (Generative AI, Microservices, Web applications) · Laravel · React Native · Flutter</td>
+  </tr>
+  <tr><td colspan="2" height="18"></td></tr>
+  <tr>
+    <td width="34" valign="top"><img src="https://api.iconify.design/lucide:server-cog.svg?color=%237C3AED" width="22" height="22" alt="Infrastructure icon" /></td>
+    <td valign="top"><strong>Tools &amp; infrastructure</strong><br>Git · GitHub · CI/CD · Jenkins · Docker · Kubernetes · Proxmox · Cloud Services</td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide:mail.svg?color=%237C3AED" width="16" alt="Email icon" />
-  <a href="mailto:isai.lara.dev@gmail.com">isai.lara.dev@gmail.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://isai-dev.vercel.app/">isai-dev.vercel.app</a>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+      <td><img src="https://api.iconify.design/lucide:mail.svg?color=%237C3AED" width="22" height="22" alt="Email icon" /></td>
+      <td><a href="mailto:isai.lara.dev@gmail.com">isai.lara.dev@gmail.com</a></td>
+    </tr>
+  </table>
 </div>
 
 <br>
