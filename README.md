@@ -1,46 +1,91 @@
-<img src="terminal.svg" width="100%"/>
+<div align="center">
+  <br>
+  <img src="https://api.iconify.design/lucide:terminal.svg?color=%237C3AED&width=56&height=56" width="56" alt="Terminal icon" />
+  <h1>Isai V. Moreno Lara</h1>
+  <p>Computer Engineer building practical systems at the intersection of AI, cybersecurity and Industry 4.0.</p>
 
-### 📄 Published research
-- *Static Malware Detection through Ensemble Feature Selection and Supervised Classification* — Informatica Journal · [DOI: 10.31449/inf.v49i37.10728](https://doi.org/10.31449/inf.v49i37.10728)
+  <p>
+    <a href="https://isai-dev.vercel.app/">Portfolio</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/isaimorenolara">GitHub</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/isai-vicente-moreno-lara/">LinkedIn</a>
+  </p>
+  <br>
+</div>
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%237C3AED" width="22" alt="AI icon" />
+      <br><strong>Applied AI</strong>
+      <br><sub>LLMs, RAG systems and machine learning that move beyond prototypes.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%237C3AED" width="22" alt="Security icon" />
+      <br><strong>Cybersecurity</strong>
+      <br><sub>Security-minded engineering, application security and malware detection.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://api.iconify.design/lucide:workflow.svg?color=%237C3AED" width="22" alt="Systems icon" />
+      <br><strong>Real systems</strong>
+      <br><sub>Reliable software, data pipelines and tools for connected environments.</sub>
+    </td>
+  </tr>
+</table>
 
-### 🛠 Stack
+<br>
 
-**Languages**
+## Selected research
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<table>
+  <tr>
+    <td width="10%" valign="top"><img src="https://api.iconify.design/lucide:book-open-text.svg?color=%237C3AED" width="24" alt="Research icon" /></td>
+    <td valign="top">
+      <sub>01 · 2025 · INFORMATICA JOURNAL</sub><br>
+      <strong>Static Malware Detection through Ensemble Feature Selection and Supervised Classification</strong><br>
+      <a href="https://doi.org/10.31449/inf.v49i37.10728">Read publication</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top"><img src="https://api.iconify.design/lucide:messages-square.svg?color=%237C3AED" width="24" alt="Collaboration research icon" /></td>
+    <td valign="top">
+      <sub>02 · 2025 · IEEE CONISOFT</sub><br>
+      <strong>AI Infiltrated in Educational Programming Teams</strong><br>
+      <a href="https://doi.org/10.1109/CONISOFT66928.2025.00045">Read publication</a>
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Tools**
+## Tools I use
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://api.iconify.design/lucide:code-2.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Code icon" />&nbsp;
+  <strong>Languages</strong><br>
+  Python · Java · JavaScript · TypeScript · PHP · C/C++
+</p>
 
-**AI / ML**
+<p>
+  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Frameworks icon" />&nbsp;
+  <strong>Frameworks</strong><br>
+  React · Angular · Next.js · Bootstrap · Spring ecosystem (Generative AI, Microservices, Web applications) · Laravel · React Native · Flutter
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5C3EE8?style=flat&logoColor=white)
+<p>
+  <img src="https://api.iconify.design/lucide:server-cog.svg?color=%237C3AED" width="22" height="22" align="middle" alt="Infrastructure icon" />&nbsp;
+  <strong>Tools &amp; infrastructure</strong><br>
+  Git · GitHub · CI/CD · Jenkins · Docker · Kubernetes · Proxmox · Cloud Services
+</p>
 
-**DevOps & Databases**
+<br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://api.iconify.design/lucide:mail.svg?color=%237C3AED" width="16" alt="Email icon" />
+  <a href="mailto:isai.lara.dev@gmail.com">isai.lara.dev@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://isai-dev.vercel.app/">isai-dev.vercel.app</a>
+</div>
 
----
+<br>
 
-### 📫 Contact
-[isai.lara.dev@gmail.com](mailto:isai.lara.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isai-vicente-moreno-lara/)
+<sub>Icons from <a href="https://icons0.dev/?collection=lucide">icons0.dev</a>.</sub>
